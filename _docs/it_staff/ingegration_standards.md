@@ -3,7 +3,6 @@ title: Integration Standards
 permalink: /docs/integration_standards/
 ---
 
-
 ## Heading 1
 <p>
 something
