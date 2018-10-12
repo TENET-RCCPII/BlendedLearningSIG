@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to the Newly Established eLearning/Blended Learning SIG"
-date:   2017-12-01 09:41:09
+date:   2017-10-01 09:41:09
 author: Adelle Lotter
 ---
 
