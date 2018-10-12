@@ -1,9 +1,10 @@
 # Site settings
-title: Jekyll Doc Theme
-email: your-email@domain.com
+title: SA Public Universities Blended Learning SIG
+email: sa-blended-learning-sig@googlegroups.com
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  A website where opportunities, challenges and knowledge
+  about eLearning/Blended learning in the South African Higher
+  Education sector is shared
 lang: en-US
 
 baseurl: "/BlendedLearningSIG" # the subpath of your site, e.g. /blog/
