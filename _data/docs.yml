@@ -2,21 +2,21 @@
 
 - title: Resources for Students
   docs:
-  - What is a Virtual Learning Environment?
-  - Something else
+  - vle
+  - Something_else
 
 - title: Resources for Lecturers
   docs:
-  - Recording lectures
-  - Editing lecture recordings
-  - eAssessment guidelines
+  - recording_lectures
+  - editing_records
+  - eassessment_guide
   
 - title: Resources for IT 
   docs:
-  - Standards for integrating platforms
-  - Something
+  - integration_standards
+  - something
   
 - title: Resources for Teaching & Learning Centres
   docs:
-  - New Tools
+  - new_tools
 
