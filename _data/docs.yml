@@ -1,11 +1,22 @@
-- title: Getting Started
+- title: Resources for Students
   docs:
-  - home
-  - themes
-  - customization
+  - What is a Virtual Learning Environment?
+  - XYZ
+  - Something else
 
-- title: Examples
+- title: Resources for Lecturers
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+  - Recording lectures
+  - Editing lecture recordings
+  - eAssessment guidelines
+  
+- title: Resources for IT 
+  docs:
+  - Standards for integrating platforms
+  - Something else
+  - Something else
+  
+- title: Resources for Teaching & Learning Centres
+  docs:
+  - Something
+  - Something else
