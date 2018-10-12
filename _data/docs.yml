@@ -1,11 +1,8 @@
 - title: Getting Started
-  docs:
-  - How to contribute resources
 
 - title: Resources for Students
   docs:
   - What is a Virtual Learning Environment?
-  - XYZ
   - Something else
 
 - title: Resources for Lecturers
@@ -17,10 +14,9 @@
 - title: Resources for IT 
   docs:
   - Standards for integrating platforms
-  - Something else
-  - Something else
+  - Something
   
 - title: Resources for Teaching & Learning Centres
   docs:
-  - Something
-  - Something else
+  - New Tools
+
